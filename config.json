@@ -1,7 +1,7 @@
 {
-    "login": "",
-    "password": "",
+    "login": "login",
+    "password": "passw",
     "outputDir": "./output",
-    "concurrency": 6,
-    "headless": false
+    "concurrency": 4,
+    "headless": true
 }
